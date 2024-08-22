@@ -1,0 +1,13 @@
+/* assets/css/styles.css */
+.navbar-brand {
+    font-weight: bold;
+}
+.nav-link.active {
+    color: white;
+}
+.nav-link {
+    color: rgba(255, 255, 255, 0.75);
+}
+.nav-link:hover {
+    color: white;
+}
